@@ -1,0 +1,6 @@
+npm install
+npm react-router-dom
+npm axios
+npm bootstrap
+npm react-bootstrap
+npm mdb-react-ui-kit
